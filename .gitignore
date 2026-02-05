@@ -1,0 +1,29 @@
+--- .NET ---
+
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+--- React / Frontend ---
+
+node_modules/
+dist/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+--- OS & Tools ---
+
+.DS_Store
+Thumbs.db
+docker-compose.override.yml
+.idea/
+.vscode/

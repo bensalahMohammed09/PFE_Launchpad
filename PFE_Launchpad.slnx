@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PFE_Launchpad.API/PFE_Launchpad.API.csproj" />
+  <Project Path="PFE_Launchpad.Application/PFE_Launchpad.Application.csproj" />
+  <Project Path="PFE_Launchpad.Domain/PFE_Launchpad.Domain.csproj" />
+  <Project Path="PFE_Launchpad.Infrastructure/PFE_Launchpad.Infrastructure.csproj" />
+</Solution>

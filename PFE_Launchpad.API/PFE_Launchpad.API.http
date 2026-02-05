@@ -1,0 +1,6 @@
+@PFE_Launchpad.API_HostAddress = http://localhost:5255
+
+GET {{PFE_Launchpad.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

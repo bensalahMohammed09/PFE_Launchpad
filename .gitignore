@@ -27,3 +27,4 @@ Thumbs.db
 docker-compose.override.yml
 .idea/
 .vscode/
+n8n_data/
